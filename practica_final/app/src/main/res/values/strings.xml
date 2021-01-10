@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica Final</string>
+    <string name="text_button2">boton 2</string>
+    <string name="text_title_FragmentC">Fragment C</string>
+    <string name="text_title_FragmentB">Fragment C</string>
+    <string name="text_button1">boton 1</string>
+</resources>
